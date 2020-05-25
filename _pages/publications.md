@@ -12,7 +12,7 @@ See the full list on  [Google Scholar](https://scholar.google.com/citations?user
 
 ### [A Hardware-Software Blueprint for Flexible Deep Learning Specialization](https://arxiv.org/abs/1807.04188)
 Thierry Moreau, Tianqi Chen, Luis Vega, Jared Roesch, Eddie Yan, **Lianmin Zheng**, Josh Fromm, Ziheng Jiang, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy  
-_MICRO 2019_ 
+_IEEE Micro 2019_ 
 
 ### [Learning to Optimize Tensor Programs](https://arxiv.org/abs/1805.08166) 
 Tianqi Chen, **Lianmin Zheng**, Eddie Yan, Ziheng Jiang, Thierry Moreau, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy  
