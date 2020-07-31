@@ -13,6 +13,7 @@
 % CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 %
 
+
 %-------------------------------------------------------------------------------
 % CONFIGURATIONS
 %-------------------------------------------------------------------------------
@@ -23,7 +24,7 @@
 \usepackage{color}
 
 % Configure page margins with geometry
-\geometry{left=1.7cm, top=1cm, right=1.7cm, bottom=1cm, footskip=0cm}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
 
 % Specify the location of the included fonts
 \fontdir[fonts/]
@@ -73,7 +74,6 @@
 
 % \quote{``Do the most challenging things in the best years"}
 
-
 %-------------------------------------------------------------------------------
 \begin{document}
 
@@ -88,19 +88,24 @@
 %  {Claud D. Park~~~·~~~Curriculum Vitae}
 %  {\thepage}
 
-
 %-------------------------------------------------------------------------------
-%	CV/RESUME CONTENT\href{https://github.com/}{(Link)}
+%	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 
 \input{cv/education.tex}
-\input{cv/research_exp.tex}
-\input{cv/publication.tex}
-\input{cv/project_exp.tex}
-\input{cv/honors.tex}
 
+\cvsection{Research Interests}
+
+\small{Machine Learning System, Compiler Optimization, Program Synthesis}
+
+\input{cv/publication.tex}
+\input{cv/research_exp.tex}
+\input{cv/industry_exp.tex}
+\input{cv/honors.tex}
+\input{cv/project_exp.tex}
 \input{cv/teach_exp.tex}
+\input{cv/service.tex}
 
 
 % \input{cv/skills.tex}
