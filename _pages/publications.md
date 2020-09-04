@@ -10,7 +10,7 @@ See the full list on  [Google Scholar](https://scholar.google.com/citations?user
 
 ---
 ### Ansor: Generating High-Performance Tensor Programs for Deep Learning
-**Lianmin Zheng**, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica.
+**Lianmin Zheng**, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica  
 _OSDI 2020_
 
 ### [A Hardware-Software Blueprint for Flexible Deep Learning Specialization](https://arxiv.org/abs/1807.04188)
