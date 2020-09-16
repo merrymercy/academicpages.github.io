@@ -1,9 +1,10 @@
 
 ## Help
 
-Top navigation bar : `_data/navigation.yml`
+- Top navigation bar : `_data/navigation.yml`
+- About page : `_pages/About.md`
 
-## To run locally 
+## Run locally 
 
 ### Ubuntu
 
