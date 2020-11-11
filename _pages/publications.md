@@ -9,7 +9,7 @@ author_profile: true
 See the full list on  [Google Scholar](https://scholar.google.com/citations?user=_7Q8uIYAAAAJ&hl=en)  
 
 ---
-### [Ansor: Generating High-Performance Tensor Programs for Deep Learning]()
+### [Ansor: Generating High-Performance Tensor Programs for Deep Learning](https://arxiv.org/abs/2006.06762)
 **Lianmin Zheng**, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica  
 _OSDI 2020_
 
